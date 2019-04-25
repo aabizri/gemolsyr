@@ -1,0 +1,3249 @@
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
+---
+axiom:
+  - letter: F
+    parameters:
+      x: 1
+      y: 1
+      z: 1
+constants:
+  - "["
+  - "]"
+variables:
+  F:
+    parameters:
+      0:
+        name: x
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      1:
+        name: y
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+      2:
+        name: z
+        operators:
+          - "*"
+          - "+"
+          - "-"
+          - "/"
+rules:
+  -
+    from: F
+    rewrite:
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 1*prev_1
+          z: 1*prev_2
+      - letter: F
+        parameters:
+          x: 1*prev_0
+          y: 0.5*prev_1
+          z: 1*prev_2
+      - letter: B
+...
